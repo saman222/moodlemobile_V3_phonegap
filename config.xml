@@ -142,7 +142,7 @@
     <gap:plugin name="cordova-plugin-badge" source="npm" spec="0.8.8" />
     <gap:plugin name="cordova-plugin-camera" source="npm" spec="4.1.0" />
     <gap:plugin name="cordova-plugin-customurlscheme" source="npm" spec="4.4.0">
-        <param name="URL_SCHEME" value="moodlemobile" />
+        <param name="URL_SCHEME" value="https://daneh.ir/demo2" />
     </gap:plugin>
     <gap:plugin name="cordova-plugin-device" source="npm" spec="2.0.3" />
     <gap:plugin name="cordova-plugin-file" source="npm" spec="6.0.2" />
